@@ -1,13 +1,13 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Oltian Kadriu
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir lernen in diesem Modul wie man Applikationssicherheit in JSF implementiert.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, wie man XSS-Angriffe (XSS = Cross-Site-Scripting) verhindert.
 
 ## Beschreibung
 
