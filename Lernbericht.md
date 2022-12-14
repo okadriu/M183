@@ -23,7 +23,7 @@ Der Entwickler hat das Suchfeld eigentlich für solche Suchen entwickelt:
 
 Hier kann man sehen, wie ein böser Mensch es tun könnte:
 ![grafik](https://user-images.githubusercontent.com/69577043/207428646-d997f717-414b-49b0-be32-7612b581ac24.png)
-Um das zu verhindern kann man ganz einfach, die Escape-Eigenschaft der <h:outputText>-Komponente von "false" auf "true" ändern:
+Um das zu verhindern, kann man ganz einfach, die Escape-Eigenschaft der <h:outputText>-Komponente von "false" auf "true" ändern:
 ```xhtml
 <h:outputText value="#{searchController.searchString}" escape="true" />
 ```
@@ -46,8 +46,7 @@ Von der Beschreibung können Sie lesen, dass ich verstanden habe, wie man XSS in
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Modul hat mir ganz OK gefallen und ich konnte die meisten Aufträge lösen, auch wenn wir die meiste Zeit zu Hause unterricht hatten.
+Am allerersten Tag, wo wir das neue Modul begonnen haben, habe ich den Einstieg verpasst, da ich krank war und nicht anwesend. Dabei konnte ich diesen Stoff nicht nachholen, da ich die Aufträge nur mit den Präsentationen nicht lösen konnte...
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Nächstes Mal könnte ich meine Lehrperson fragen, wenn ich fragen habe und den Einstieg verpasst habe, denn dieser ist am wichtigsten.
